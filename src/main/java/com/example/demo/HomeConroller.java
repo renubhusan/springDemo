@@ -8,7 +8,7 @@ public class HomeConroller {
 
 	@GetMapping("/home")
 	public String Home() {
-		
+		System.out.println("hello");
 		return "welcome to GitHub learning ....!!!!!";
 	}
 	@GetMapping("/homeB")
