@@ -19,7 +19,7 @@ public class HomeConroller {
 	@GetMapping("/homeA")
 	public String HomeA() {
 
-		return "welcome to GitHub learning .....>>>bgjh;;l";
+		return "welcome to GitHub learning";
 	}
 	
 }
