@@ -8,6 +8,10 @@ public class HomeConroller {
 
 	@GetMapping("/home")
 	public String Home() {
+		return "welcome to GitHub learning ....!!!!!";
+	}
+	@GetMapping("/homeB")
+	public String HomeB() {
 		return "welcome to GitHub learning";
 	}
 }
