@@ -19,6 +19,7 @@ public class HomeConroller {
 	@GetMapping("/homeA")
 	public String HomeA() {
 
+
 		return "welcome to GitHub learning naga>>>>>>>>>>>>";
 
 
