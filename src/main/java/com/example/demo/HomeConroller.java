@@ -21,7 +21,7 @@ public class HomeConroller {
 	public String HomeA() {
 
 
-		return "welcome to GitHub learning naga>>>>>>>>>>>>";
+		return "welcome to GitHub learning naga";
 
 
 
